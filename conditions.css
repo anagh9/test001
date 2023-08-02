@@ -1,0 +1,44 @@
+main {
+    width: 50%;
+    margin: auto;
+    margin-top: 70px;
+}
+
+h1 {
+    font-size: 57px;
+    font-weight: 600;
+    color: rgb(50, 54, 72);
+    margin-bottom: 30px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 32px;
+    color: rgb(90, 92, 108);
+    margin-bottom: 30px;
+}
+
+li {
+    font-size: 18px;
+    line-height: 32px;
+    color: rgb(90, 92, 108);
+    margin-left: 50px;
+}
+
+.last-list {
+    margin-bottom: 30px;
+}
+
+span {
+    font-size: 18px;
+    line-height: 32px;
+    color: rgb(90, 92, 108);
+    margin-bottom: 30px;
+}
+
+strong{
+    font-size: 22px;
+    line-height: 32px;
+    color: rgb(90, 92, 108);
+    margin-bottom: 30px;
+}
