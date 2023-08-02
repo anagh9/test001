@@ -303,8 +303,8 @@ footer{
 }
 
 .image-logo img{
-    width: 80px;
-    height: 50px;
+    width: 20%;
+    height: 10%;
     object-fit: cover; 
 }
 
